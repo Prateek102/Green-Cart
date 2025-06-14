@@ -1,5 +1,9 @@
  🛒 Green-Cart
 
+![image](https://github.com/user-attachments/assets/8e15b18d-ff1b-472b-8456-80a2cd7bace7)
+![Uploading image.png…]()
+
+
 Green-Cart is a full-stack e-commerce application built with a modern tech stack, featuring separate client and server folders for clear structure and scalability.
 
 ## 📁 Project Structure
